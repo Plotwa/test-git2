@@ -1,6 +1,4 @@
 console.log("Hello World");
 
-console.log("Hello Javascript");
-
-console.log = 20;
+const userAge = 35;
 // develop-master
